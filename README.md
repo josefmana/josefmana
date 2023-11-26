@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @josefmana, aspiring mathematical psychologist, physical culturist and self-proclaimed tea connoisseur.
-- 👀 I’m interested in Mathematical Psychology, Neuroscience, Scientific & Mathematical Thinking and of course a good Speciality Tea.
-- 🌱 I’m currently reading through the New Handbook of Mathematical Psychology, and working towards the one-arm handstand.
-- 💞️ I’m looking to collaborate on any real mathematical psychology, neursocience of mental representation or any other projects related to nervous systems of living animals.
-- 📫 Reach me on josef.mana@pm.me via e-mail or ironmana.mark52 via Messenger
+- 👀 I’m interested in Causal Inference, Bayesian Multilevel Modelling and of course a good Speciality Tea.
+- 🌱 I’m currently building statistical models for First Faculty of Medicine at Charles University to help understand neuropsychological traits of patients with Parkinson's disease, and working towards the straddle press handstand.
+- 💞️ I’m looking to collaborate on projects investigating causal inference (in observational and experimental studies) and Bayesian workflow.
+- 📫 Reach me on josef.mana@protonmail.com via e-mail or ironmana.mark52 via Messenger
 
 <!---
 josefmana/josefmana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
